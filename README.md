@@ -1,6 +1,6 @@
 # Building-Serverless-Web-App
 
-# Step1:Create a DynamoDB table
+## Step1:Create a DynamoDB table
 name:registration-table
 
 # Step2:Create IAM role for lambda function
