@@ -5,9 +5,9 @@ name:registration-table
 
 ## Step2:Create IAM role for lambda function
 name:RegistrationRoleForm
-### Provide Permissions:
-#### 1)Cloudwatch Full Access
-#### 2)DynamoDB Full Access
+##### Provide Permissions:
+###### 1)Cloudwatch Full Access
+###### 2)DynamoDB Full Access
 
 ##  Step3:Create lambda function
 name:registration-form-function
