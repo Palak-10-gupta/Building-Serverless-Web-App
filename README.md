@@ -3,19 +3,19 @@
 ## Step1:Create a DynamoDB table
 name:registration-table
 
-# Step2:Create IAM role for lambda function
+## Step2:Create IAM role for lambda function
 name:RegistrationRoleForm
 
-# Step3:Create lambda function
+##  Step3:Create lambda function
 name:registration-form-function
 
-# Step4:Write lambda function
+##  Step4:Write lambda function
 
-# Step5:Create and deploy API Gateway and Enable CORS
+##  Step5:Create and deploy API Gateway and Enable CORS
 
-# Step6:Test the project.Registration is successful
+##  Step6:Test the project.Registration is successful
 
-# Enable CORS:
+##  Enable CORS:
 
 Access-Control-Allow-Origin: '*'
 Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
