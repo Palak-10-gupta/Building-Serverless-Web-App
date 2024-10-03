@@ -10,6 +10,9 @@ name:RegistrationRoleForm
 name:registration-form-function
 
 ##  Step4:Write lambda function
+####Change    (  'https://r3u6mpiyr2.execute-api.ap-south-1.amazonaws.com/prod')
+######To this: ('API_URL/register')
+
 
 ##  Step5:Create and deploy API Gateway and Enable CORS
 
