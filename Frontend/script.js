@@ -16,7 +16,7 @@ function submitForm() {
 
     // Set up response handler
     xhr.onreadystatechange = function() {
-        if (xhr.readyState === XMLHttpRequest.DONE) {
+         if (xhr.readyState === XMLHttpRequest.DONE) {
             if (xhr.status === 200) {
                 alert('Registration successful!');
                 document.getElementById('name').value = '';
