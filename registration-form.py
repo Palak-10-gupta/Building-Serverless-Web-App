@@ -15,7 +15,7 @@ def lambda_handler(event, context):
             'name': event['name'],
             'phone': event['phone'],
             'password': event['password']
-        }
+            }
     )
 
     # Return response
